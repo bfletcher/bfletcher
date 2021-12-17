@@ -1,4 +1,4 @@
-![Open-CMSIS-Pack](/images/CMSIS-STdevboard-overlay.png)
+![Open-CMSIS-Pack](CMSIS-STdevboard-overlay.png)
 
 ## About Open-CMSIS-Pack
 
