@@ -1,9 +1,8 @@
-![Open-CMSIS-Pack](CMSIS-STdevboard-overlay.png)
+![BillFL at FOSDEM](github.jpg)
 
-## About Open-CMSIS-Pack
+## About me
 
-Creating a flexible and easy to use end to end development flow - from project creation to execution of the software on real or virtual hardware - for embedded software.
-
-* [Browse Project Information](https://linaro.atlassian.net/wiki/spaces/CMSIS/overview?homepageId=18851201976)
-* [Read the Specification](https://open-cmsis-pack.github.io/Open-CMSIS-Pack-Spec/main/html/index.html)
-
+* Works at Linaro
+* Development work on Linux, Zephyr and LAVA
+* Occasional work on test automation, graphics and communication stacks
+* Various demos and training material for Embedded World, IoT World Congress and Embedded Linux Conference
